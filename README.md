@@ -1,8 +1,8 @@
-# WEB102 Prework - Sea Monster Crowdfunding – Kraken Dashboard
+# WEB102 Prework - Sea Monster Crowdfunding – Whale Dashboard
 
 Submitted by: Suvi Nwoko
 
-Sea Monster Crowdfunding – Kraken Dashboard is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding – Whale Dashboard is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 7 hours spent in total
 
