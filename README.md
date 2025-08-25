@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1LNP-adXU_kLNQfU8HiYHRzrS_xh2ycDG/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1LNP-adXU_kLNQfU8HiYHRzrS_xh2ycDG/view?usp=sharing'
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Apple's screenshot toolbar
